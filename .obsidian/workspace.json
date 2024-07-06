@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2e94de04b215e37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3137322d7fad9625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94125e0ac20fee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zero To Pong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccd76d6111170bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b76c4eed8d5b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4960dea081af6050",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfe8686e95602f94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3bff1de83fbeedc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "21ce55ec386b2f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd134593ada236be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491aa8e6b0a59cbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zero To Pong.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6439eb54aa0b488e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zero To Pong.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f00d565924e65f11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73201911cf8c151f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zero To Pong.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c94125e0ac20fee7",
+  "lastOpenFiles": [
+    "BevyVault",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Zero To Pong.md",
+    "BevyConcepts/App.md",
+    "Welcome To Phox Bevy 0.14.md",
+    "Event.md",
+    "system.md",
+    "MIT License.md",
+    "Untitled",
+    "BevyConcepts",
+    "Obsidian Cheat Sheet.md",
+    "Resource.md",
+    "QueryFilter.md",
+    "Query.md",
+    "Links.md",
+    "create a link.md"
+  ]
+}
