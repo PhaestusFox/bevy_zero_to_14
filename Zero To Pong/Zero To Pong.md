@@ -18,10 +18,6 @@ create  [[System]] spawn_paddle([[Commands]])
 create [[System]] move_paddle([[Query]], [[Transform]], [[Query Filter]], [[Input]], [[Resource]])
 create [[Component]] Ball(Velocity)
 create  [[System]] move_ball([[Query]], [[Transform]], [[Query Filter]], [[Input]], [[Resource]])
-create [[Event]] GameEvents
-create [[System]] score_and_reset([[Query]], [[Event]], [[Transform]], [[Query Filter]])
-create [[System]] display_score([[Commands]])
-create [[System]] update_score([[Resource]], [[Local]], [[Event]], [[Query]], [[Query Filter]])
 
 # Script
 hello and welcome to Zero to pong, in this video ill be showing you how to go from a fresh windows install to a functional, if simple game of pong.
